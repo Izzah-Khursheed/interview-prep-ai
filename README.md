@@ -58,9 +58,10 @@ PORT=8000
 # For backend
 cd backend
 npm install
-npm start
+npm run dev
 
 # For frontend
 cd frontend
+cd interview-prep-ai
 npm install
 npm run dev
