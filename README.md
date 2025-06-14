@@ -46,7 +46,7 @@
 ## 📂 Setup & Usage
 ```bash
 # 1. Clone the repository: 
-   git clone https://github.com/your-username/interview-prep-ai.git
+git clone https://github.com/your-username/interview-prep-ai.git
 
 # 2. Create a `.env` file in the `backend` directory with the following content:
 MONGO_URI = enter_your_mongo_db_uri
