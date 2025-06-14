@@ -46,19 +46,15 @@
 ## 📂 Setup & Usage
 ```bash
 ### 1. Clone the repository: 
-```bash
    git clone https://github.com/your-username/interview-prep-ai.git
 
 ### 2. Create a `.env` file in the `backend` directory with the following content:
-
-```env
 MONGO_URI = enter_your_mongo_db_uri
 JWT_SECRET = enter_your_jwt_secret
 GEMINI_API_KEY = enter_your_gemini_api_key
 PORT=8000
 
 ### 3. Install dependencies and run the project:
-```bash
 # For backend
 cd backend
 npm install
