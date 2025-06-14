@@ -12,8 +12,6 @@
 - 🔁 Perform **CRUD operations** on sessions and questions
 - 📱 Enjoy a **responsive** and modern UI for a seamless experience
 
-> 💬 *Note: The app currently focuses on AI-generated Q&A learning rather than live simulation.*
-
 ---
 
 ## ✨ Key Features
@@ -46,7 +44,7 @@
 ---
 
 ## 📂 Setup & Usage
-
+```bash
 ### 1. Clone the repository: 
 ```bash
    git clone https://github.com/your-username/interview-prep-ai.git
